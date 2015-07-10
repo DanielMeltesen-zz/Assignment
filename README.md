@@ -19,6 +19,6 @@ Build the assignment in static html and use sass for styling, and compass to com
 Install Ruby, Sass and Compass
 ```
 Use this guide for installation if needed http://thesassway.com/beginner/getting-started-with-sass-and-compass
-```
+
 ## Done!
 We look forward to your solution.
